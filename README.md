@@ -1,0 +1,1 @@
+A single-click browser bookmarklet for AWS recon during bug bounty triage. Scrapes any web page for exposed S3 buckets, AWS access keys, signed URLs, and CloudFront distributions — then live-probes each bucket to tell you which ones actually exist
